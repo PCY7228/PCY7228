@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Pratchaya%20Kampika&fontSize=50&animation=fadeIn&fontAlignY=35&desc=ITII%20KKU%20%7C%20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Pratchaya%20Kampika&fontSize=50&animation=fadeIn&fontAlignY=35&desc=ITII" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Pratchaya Kampika</h1>
