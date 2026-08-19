@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Pratchaya%20Kampika&fontSize=50&animation=fadeIn&fontAlignY=35&desc=ITII" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Pratchaya Kampika</h1>
+<h1 align="center" >Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" height="50"> , I'm Pratchaya Kampika</h1>
 <h3 align="center">I study at Khon Kaen University. 🇹🇭</h3>
 
 <p align="center">
@@ -63,9 +63,8 @@ Here are the tools and technologies I use to bring ideas to life:
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-### 🤖 Web3 & AI
+### 🤖 AI
 <p>
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=MetaMask&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
 </p>
 
