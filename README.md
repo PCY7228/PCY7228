@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Pratchaya%20Kampika&fontSize=50&animation=fadeIn&fontAlignY=35&desc=ITII%20KKU%20%7C%20Developer&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Pratchaya%20Kampika&fontSize=50&animation=fadeIn&fontAlignY=35&desc=ITII%20KKU%20%7C%20" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Pratchaya Kampika</h1>
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 I'm based in **Khon Kaen University (KKU), Thailand**
+- 🌍 I study at Khon Kaen University.**
 - 🎓 Studying / Affiliated with **ITII KKU**
 - 💡 I love exploring new technologies and building beautiful user interfaces.
 - 🚀 Continuously learning and leveling up my skills.
