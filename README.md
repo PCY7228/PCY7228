@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Pratchaya Kampika</h1>
-<h3 align="center">A passionate developer based in KKU, Thailand 🇹🇭</h3>
+<h3 align="center">I study at Khon Kaen University. 🇹🇭</h3>
 
 <p align="center">
   <a href="https://github.com/PCY7228">
@@ -17,7 +17,7 @@
 
 - 🌍 I study at Khon Kaen University.**
 - 🎓 Studying / Affiliated with **ITII KKU**
-- 💡 I love exploring new technologies and building beautiful user interfaces.
+- 💡 I love exploring new technologies
 - 🚀 Continuously learning and leveling up my skills.
 
 <br />
@@ -74,8 +74,7 @@ Here are the tools and technologies I use to bring ideas to life:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PCY7228&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="PCY7228's GitHub Stats" />
-  <br/><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PCY7228&theme=tokyonight&hide_border=true&background=0D1117" alt="PCY7228's GitHub Streak" />
 </div>
 
